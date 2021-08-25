@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Wrapper, Button } from ".style";
+import { Wrapper, Button } from "./styles";
 import Navbar from "./Navbar";
 
 export default class App extends Component {
